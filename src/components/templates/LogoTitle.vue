@@ -2,7 +2,7 @@
 <template>
   <div class="logo">
     <img src="@/assets/logo.png" alt="FakeStore Logo" />
-    <h2>FakeStore</h2>
+    <h2>Tech Gross</h2>
   </div>
 </template>
 

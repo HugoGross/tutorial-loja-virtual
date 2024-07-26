@@ -1,5 +1,4 @@
 <script setup>
-import ProductList from '@/components/ProductList.vue';
 
 import { onMounted } from 'vue';
 import { PassageUser } from '@passageidentity/passage-elements/passage-user';
